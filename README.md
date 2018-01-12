@@ -1,5 +1,5 @@
 # SELCAL Generator
-This file is for generating SELCAL (SelectiveCall, more info [here](https://en.wikipedia.org/wiki/SELCAL)) codes. It follow the SELCAL code rules which are:
+This file is for generating SELCAL (SelCal or selective-calling, more info [here](https://en.wikipedia.org/wiki/SELCAL)) codes. It follow the SELCAL code rules which are:
 1. Four letters which are from A to S excluding I, N and O.
 1. The letters within a given pair are written or transmitted in alphabetical order.
 1. A given letter can be used only once in a SELCAL code; letters may not be repeated. For example, it cannot be AA-CF as A repeats.
